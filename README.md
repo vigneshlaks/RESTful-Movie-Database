@@ -25,25 +25,3 @@ I've utilized Amazon DynamoDB, a NoSQL database service, for storing my movie da
 ## RESTful API Development
 
 My REST API server, built with Java Spark, adheres to the principles of Representational State Transfer (REST). It provides endpoints for querying movie data based on title, year range, and genres. I ensured that my API follows best practices for RESTful interactions, promoting a clear separation of concerns between client and server.
-
-## What I Learned
-
-Throughout this project, I gained valuable experience in:
-
-- Working with DynamoDB and understanding its key concepts.
-- Developing RESTful APIs using Java Spring and Java Spark frameworks.
-- Integrating frontend and backend components to create a cohesive web application.
-- Writing clean and maintainable code, following best practices and design patterns.
-
-## Next Steps
-
-While my project currently provides basic functionality for querying movie data, there are several potential enhancements I could explore in the future:
-
-- Implementing advanced search features, such as full-text search or filtering by additional criteria.
-- Enhancing the frontend with interactive visualizations or user customization options.
-- Optimizing performance and scalability of my application, particularly in handling large datasets.
-- Adding user authentication and authorization for secure access to the database.
-
-## Conclusion
-
-My Movie Database Web Application project demonstrates the power of integrating DynamoDB into a web application to provide users with seamless access to a vast collection of movie data. I'm excited about the possibilities for further development and improvement, and I hope you enjoy exploring the world of movies through my platform!
