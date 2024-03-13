@@ -1,0 +1,721 @@
+[
+    {
+        "primaryTitle": "Midnightin a Toy Shop",
+        "runtimeMinutes": 7,
+        "titleType": "short",
+        "originalTitle": "Midnight in a ToyShop",
+        "genres": [
+            "Animation",
+            "Family",
+            "Musical"
+        ],
+        "tconst": "tt0021146",
+        "startYear": 1930,
+        "endYear": null,
+        "isAdult": false
+    },
+    {
+        "primaryTitle": "MonkeyMelodies",
+        "runtimeMinutes": 7,
+        "titleType": "short",
+        "originalTitle": "MonkeyMelodies",
+        "genres": [
+            "Animation",
+            "Family",
+            "Musical"
+        ],
+        "tconst": "tt0021151",
+        "startYear": 1930,
+        "endYear": null,
+        "isAdult": false
+    },
+    {
+        "primaryTitle": "Placideau s\u00e9rail",
+        "runtimeMinutes": 6,
+        "titleType": "short",
+        "originalTitle": "Placide aus\u00e9rail",
+        "genres": [
+            "Animation",
+            "Comedy",
+            "Musical"
+        ],
+        "tconst": "tt0021254",
+        "startYear": 1930,
+        "endYear": null,
+        "isAdult": false
+    },
+    {
+        "primaryTitle": "Birdsof a Feather",
+        "runtimeMinutes": 8,
+        "titleType": "short",
+        "originalTitle": "Birds of aFeather",
+        "genres": [
+            "Animation",
+            "Comedy",
+            "Musical"
+        ],
+        "tconst": "tt0021665",
+        "startYear": 1931,
+        "endYear": null,
+        "isAdult": false
+    },
+    {
+        "primaryTitle": "EgyptianMelodies",
+        "runtimeMinutes": 6,
+        "titleType": "short",
+        "originalTitle": "EgyptianMelodies",
+        "genres": [
+            "Animation",
+            "Family",
+            "Musical"
+        ],
+        "tconst": "tt0021831",
+        "startYear": 1931,
+        "endYear": null,
+        "isAdult": false
+    },
+    {
+        "primaryTitle": "Funny Face",
+        "runtimeMinutes": 8,
+        "titleType": "short",
+        "originalTitle": "FunnyFace",
+        "genres": [
+            "Animation",
+            "Musical",
+            "Short"
+        ],
+        "tconst": "tt0022922",
+        "startYear": 1932,
+        "endYear": null,
+        "isAdult": false
+    },
+    {
+        "primaryTitle": "OldKing Cole",
+        "runtimeMinutes": 7,
+        "titleType": "short",
+        "originalTitle": "Old KingCole",
+        "genres": [
+            "Animation",
+            "Family",
+            "Musical"
+        ],
+        "tconst": "tt0024403",
+        "startYear": 1933,
+        "endYear": null,
+        "isAdult": false
+    },
+    {
+        "primaryTitle": "Let'sSing with Popeye",
+        "runtimeMinutes": 2,
+        "titleType": "short",
+        "originalTitle": "Let's Sing withPopeye",
+        "genres": [
+            "Animation",
+            "Musical",
+            "Short"
+        ],
+        "tconst": "tt0025382",
+        "startYear": 1934,
+        "endYear": null,
+        "isAdult": false
+    },
+    {
+        "primaryTitle": "Little Dutch Mill",
+        "runtimeMinutes": 9,
+        "titleType": "short",
+        "originalTitle": "Little Dutch Mill",
+        "genres": [
+            "Animation",
+            "Musical",
+            "Short"
+        ],
+        "tconst": "tt0025405",
+        "startYear": 1934,
+        "endYear": null,
+        "isAdult": false
+    },
+    {
+        "primaryTitle": "PastryTown Wedding",
+        "runtimeMinutes": 8,
+        "titleType": "short",
+        "originalTitle": "PastrytownWedding",
+        "genres": [
+            "Animation",
+            "Family",
+            "Musical"
+        ],
+        "tconst": "tt0025633",
+        "startYear": 1934,
+        "endYear": null,
+        "isAdult": false
+    },
+    {
+        "primaryTitle": "TheChinese Nightingale",
+        "runtimeMinutes": 10,
+        "titleType": "short",
+        "originalTitle": "The ChineseNightingale",
+        "genres": [
+            "Animation",
+            "Fantasy",
+            "Musical"
+        ],
+        "tconst": "tt0026208",
+        "startYear": 1935,
+        "endYear": null,
+        "isAdult": false
+    },
+    {
+        "primaryTitle": "Dancingon the Moon",
+        "runtimeMinutes": 8,
+        "titleType": "short",
+        "originalTitle": "Dancing on theMoon",
+        "genres": [
+            "Animation",
+            "Comedy",
+            "Musical"
+        ],
+        "tconst": "tt0026257",
+        "startYear": 1935,
+        "endYear": null,
+        "isAdult": false
+    },
+    {
+        "primaryTitle": "AnElephant Never Forgets",
+        "runtimeMinutes": 7,
+        "titleType": "short",
+        "originalTitle": "An Elephant NeverForgets",
+        "genres": [
+            "Animation",
+            "Comedy",
+            "Musical"
+        ],
+        "tconst": "tt0026310",
+        "startYear": 1934,
+        "endYear": null,
+        "isAdult": false
+    },
+    {
+        "primaryTitle": "BettyBoop- Judge for a Day",
+        "runtimeMinutes": 8,
+        "titleType": "short",
+        "originalTitle": "Judge for aDay",
+        "genres": [
+            "Animation",
+            "Comedy",
+            "Musical"
+        ],
+        "tconst": "tt0026553",
+        "startYear": 1935,
+        "endYear": null,
+        "isAdult": false
+    },
+    {
+        "primaryTitle": "TheKids in the Shoe",
+        "runtimeMinutes": 7,
+        "titleType": "short",
+        "originalTitle": "The Kids in theShoe",
+        "genres": [
+            "Animation",
+            "Comedy",
+            "Musical"
+        ],
+        "tconst": "tt0026569",
+        "startYear": 1935,
+        "endYear": null,
+        "isAdult": false
+    },
+    {
+        "primaryTitle": "MusicalMemories",
+        "runtimeMinutes": 7,
+        "titleType": "short",
+        "originalTitle": "MusicalMemories",
+        "genres": [
+            "Animation",
+            "Musical",
+            "Short"
+        ],
+        "tconst": "tt0026749",
+        "startYear": 1935,
+        "endYear": null,
+        "isAdult": false
+    },
+    {
+        "primaryTitle": "ParrotvilleOld Folks",
+        "runtimeMinutes": 7,
+        "titleType": "short",
+        "originalTitle": "Parrotville OldFolks",
+        "genres": [
+            "Animation",
+            "Family",
+            "Musical"
+        ],
+        "tconst": "tt0026851",
+        "startYear": 1935,
+        "endYear": null,
+        "isAdult": false
+    },
+    {
+        "primaryTitle": "TheSong of the Birds",
+        "runtimeMinutes": 7,
+        "titleType": "short",
+        "originalTitle": "The Song of theBirds",
+        "genres": [
+            "Animation",
+            "Musical",
+            "Short"
+        ],
+        "tconst": "tt0027025",
+        "startYear": 1935,
+        "endYear": null,
+        "isAdult": false
+    },
+    {
+        "primaryTitle": "StopThat Noise",
+        "runtimeMinutes": 8,
+        "titleType": "short",
+        "originalTitle": "Stop ThatNoise",
+        "genres": [
+            "Animation",
+            "Family",
+            "Musical"
+        ],
+        "tconst": "tt0027045",
+        "startYear": 1935,
+        "endYear": null,
+        "isAdult": false
+    },
+    {
+        "primaryTitle": "Timefor Love",
+        "runtimeMinutes": 7,
+        "titleType": "short",
+        "originalTitle": "Time forLove",
+        "genres": [
+            "Animation",
+            "Musical",
+            "Short"
+        ],
+        "tconst": "tt0027109",
+        "startYear": 1935,
+        "endYear": null,
+        "isAdult": false
+    },
+    {
+        "primaryTitle": "Whenthe Cat's Away",
+        "runtimeMinutes": 8,
+        "titleType": "short",
+        "originalTitle": "When the Cat'sAway",
+        "genres": [
+            "Animation",
+            "Comedy",
+            "Musical"
+        ],
+        "tconst": "tt0027203",
+        "startYear": 1935,
+        "endYear": null,
+        "isAdult": false
+    },
+    {
+        "primaryTitle": "HawaiianBirds",
+        "runtimeMinutes": 8,
+        "titleType": "short",
+        "originalTitle": "HawaiianBirds",
+        "genres": [
+            "Animation",
+            "Comedy",
+            "Musical"
+        ],
+        "tconst": "tt0027722",
+        "startYear": 1936,
+        "endYear": null,
+        "isAdult": false
+    },
+    {
+        "primaryTitle": "RainbowDance",
+        "runtimeMinutes": 4,
+        "titleType": "short",
+        "originalTitle": "RainbowDance",
+        "genres": [
+            "Animation",
+            "Musical",
+            "Short"
+        ],
+        "tconst": "tt0028156",
+        "startYear": 1936,
+        "endYear": null,
+        "isAdult": false
+    },
+    {
+        "primaryTitle": "ToSpring",
+        "runtimeMinutes": 9,
+        "titleType": "short",
+        "originalTitle": "ToSpring",
+        "genres": [
+            "Animation",
+            "Family",
+            "Musical"
+        ],
+        "tconst": "tt0028389",
+        "startYear": 1936,
+        "endYear": null,
+        "isAdult": false
+    },
+    {
+        "primaryTitle": "LittleOl' Bosko and the Pirates",
+        "runtimeMinutes": 8,
+        "titleType": "short",
+        "originalTitle": "Little Ol' Bosko and thePirates",
+        "genres": [
+            "Animation",
+            "Comedy",
+            "Musical"
+        ],
+        "tconst": "tt0029153",
+        "startYear": 1937,
+        "endYear": null,
+        "isAdult": false
+    },
+    {
+        "primaryTitle": "BettyBoop- Be Up to Date",
+        "runtimeMinutes": 6,
+        "titleType": "short",
+        "originalTitle": "Be Up toDate",
+        "genres": [
+            "Animation",
+            "Musical",
+            "Short"
+        ],
+        "tconst": "tt0029903",
+        "startYear": 1938,
+        "endYear": null,
+        "isAdult": false
+    },
+    {
+        "primaryTitle": "LittleOl' Bosko in Bagdad",
+        "runtimeMinutes": 10,
+        "titleType": "short",
+        "originalTitle": "Little Ol' Bosko inBagdad",
+        "genres": [
+            "Animation",
+            "Comedy",
+            "Musical"
+        ],
+        "tconst": "tt0030380",
+        "startYear": 1938,
+        "endYear": null,
+        "isAdult": false
+    },
+    {
+        "primaryTitle": "BettyBoop- Musical Mountaineers",
+        "runtimeMinutes": 6,
+        "titleType": "short",
+        "originalTitle": "MusicalMountaineers",
+        "genres": [
+            "Animation",
+            "Musical",
+            "Short"
+        ],
+        "tconst": "tt0031689",
+        "startYear": 1939,
+        "endYear": null,
+        "isAdult": false
+    },
+    {
+        "primaryTitle": "Betty Boop- Rhythm on the Reservation",
+        "runtimeMinutes": 6,
+        "titleType": "short",
+        "originalTitle": "Rhythm on theReservation",
+        "genres": [
+            "Animation",
+            "Comedy",
+            "Musical"
+        ],
+        "tconst": "tt0031855",
+        "startYear": 1939,
+        "endYear": null,
+        "isAdult": false
+    },
+    {
+        "primaryTitle": "SwingSocial",
+        "runtimeMinutes": 8,
+        "titleType": "short",
+        "originalTitle": "SwingSocial",
+        "genres": [
+            "Animation",
+            "Comedy",
+            "Musical"
+        ],
+        "tconst": "tt0033121",
+        "startYear": 1940,
+        "endYear": null,
+        "isAdult": false
+    },
+    {
+        "primaryTitle": "Imagination",
+        "runtimeMinutes": 8,
+        "titleType": "short",
+        "originalTitle": "Imagination",
+        "genres": [
+            "Animation",
+            "Musical",
+            "Short"
+        ],
+        "tconst": "tt0036035",
+        "startYear": 1943,
+        "endYear": null,
+        "isAdult": false
+    },
+    {
+        "primaryTitle": "TheEnchanted Sword",
+        "runtimeMinutes": 98,
+        "titleType": "movie",
+        "originalTitle": "Garbancito de laMancha",
+        "genres": [
+            "Adventure",
+            "Animation",
+            "Musical"
+        ],
+        "tconst": "tt0037731",
+        "startYear": 1945,
+        "endYear": null,
+        "isAdult": false
+    },
+    {
+        "primaryTitle": "Jasperand the Beanstalk",
+        "runtimeMinutes": 8,
+        "titleType": "short",
+        "originalTitle": "Jasper and theBeanstalk",
+        "genres": [
+            "Animation",
+            "Fantasy",
+            "Musical"
+        ],
+        "tconst": "tt0037828",
+        "startYear": 1945,
+        "endYear": null,
+        "isAdult": false
+    },
+    {
+        "primaryTitle": "Fiddle-de-dee",
+        "runtimeMinutes": 3,
+        "titleType": "short",
+        "originalTitle": "Fiddle-de-dee",
+        "genres": [
+            "Animation",
+            "Musical",
+            "Short"
+        ],
+        "tconst": "tt0039376",
+        "startYear": 1947,
+        "endYear": null,
+        "isAdult": false
+    },
+    {
+        "primaryTitle": "Lapoulette grise",
+        "runtimeMinutes": 6,
+        "titleType": "short",
+        "originalTitle": "La poulettegrise",
+        "genres": [
+            "Animation",
+            "Musical",
+            "Short"
+        ],
+        "tconst": "tt0039726",
+        "startYear": 1947,
+        "endYear": null,
+        "isAdult": false
+    },
+    {
+        "primaryTitle": "OnceUpon a Time...",
+        "runtimeMinutes": 90,
+        "titleType": "movie",
+        "originalTitle": "\u00c9rase unavez",
+        "genres": [
+            "Animation",
+            "Musical"
+        ],
+        "tconst": "tt0043163",
+        "startYear": 1950,
+        "endYear": null,
+        "isAdult": false
+    },
+    {
+        "primaryTitle": "RootyToot Toot",
+        "runtimeMinutes": 7,
+        "titleType": "short",
+        "originalTitle": "Rooty TootToot",
+        "genres": [
+            "Animation",
+            "Comedy",
+            "Musical"
+        ],
+        "tconst": "tt0043980",
+        "startYear": 1951,
+        "endYear": null,
+        "isAdult": false
+    },
+    {
+        "primaryTitle": "TheSnowMaiden",
+        "runtimeMinutes": 67,
+        "titleType": "movie",
+        "originalTitle": "Snegurochka",
+        "genres": [
+            "Animation",
+            "Fantasy",
+            "Musical"
+        ],
+        "tconst": "tt0045160",
+        "startYear": 1952,
+        "endYear": null,
+        "isAdult": false
+    },
+    {
+        "primaryTitle": "LittleToot",
+        "runtimeMinutes": 9,
+        "titleType": "short",
+        "originalTitle": "LittleToot",
+        "genres": [
+            "Animation",
+            "Family",
+            "Musical"
+        ],
+        "tconst": "tt0047183",
+        "startYear": 1948,
+        "endYear": null,
+        "isAdult": false
+    },
+    {
+        "primaryTitle": "Invitation to the Dance",
+        "runtimeMinutes": 93,
+        "titleType": "movie",
+        "originalTitle": "Invitation to theDance",
+        "genres": [
+            "Animation",
+            "Fantasy",
+            "Musical"
+        ],
+        "tconst": "tt0049367",
+        "startYear": 1956,
+        "endYear": null,
+        "isAdult": false
+    },
+    {
+        "primaryTitle": "CartoonPlanet",
+        "runtimeMinutes": null,
+        "titleType": "tvSeries",
+        "originalTitle": "CartoonPlanet",
+        "genres": [
+            "Animation",
+            "Comedy",
+            "Musical"
+        ],
+        "tconst": "tt0111911",
+        "startYear": 1995,
+        "endYear": 1999,
+        "isAdult": false
+    },
+    {
+        "primaryTitle": "Talesfrom a Flying Trunk",
+        "runtimeMinutes": 88,
+        "titleType": "movie",
+        "originalTitle": "Stories from a FlyingTrunk",
+        "genres": [
+            "Animation",
+            "Fantasy",
+            "Musical"
+        ],
+        "tconst": "tt0253761",
+        "startYear": 1979,
+        "endYear": null,
+        "isAdult": false
+    },
+    {
+        "primaryTitle": "Episode#1.8",
+        "runtimeMinutes": null,
+        "titleType": "tvEpisode",
+        "originalTitle": "Episode#1.8",
+        "genres": [
+            "Animation",
+            "Comedy",
+            "Musical"
+        ],
+        "tconst": "tt15777908",
+        "startYear": 2021,
+        "endYear": null,
+        "isAdult": false
+    },
+    {
+        "primaryTitle": "SuperMario Bros",
+        "runtimeMinutes": null,
+        "titleType": "tvEpisode",
+        "originalTitle": "Super MarioBros",
+        "genres": [
+            "Animation",
+            "Comedy",
+            "Musical"
+        ],
+        "tconst": "tt15827266",
+        "startYear": 2018,
+        "endYear": null,
+        "isAdult": false
+    },
+    {
+        "primaryTitle": "SurpriseEaster Egg Hunt",
+        "runtimeMinutes": null,
+        "titleType": "tvEpisode",
+        "originalTitle": "Surprise Easter EggHunt",
+        "genres": [
+            "Animation",
+            "Family",
+            "Musical"
+        ],
+        "tconst": "tt21636894",
+        "startYear": 2021,
+        "endYear": null,
+        "isAdult": false
+    },
+    {
+        "primaryTitle": "Landorman",
+        "runtimeMinutes": null,
+        "titleType": "tvEpisode",
+        "originalTitle": "Landorman",
+        "genres": [
+            "Animation",
+            "Comedy",
+            "Musical"
+        ],
+        "tconst": "tt22034818",
+        "startYear": 2021,
+        "endYear": null,
+        "isAdult": false
+    },
+    {
+        "primaryTitle": "Unpoisson nomm\u00e9 Sacha",
+        "runtimeMinutes": null,
+        "titleType": "tvEpisode",
+        "originalTitle": "Un poisson nomm\u00e9Sacha",
+        "genres": [
+            "Animation",
+            "Comedy",
+            "Musical"
+        ],
+        "tconst": "tt3330592",
+        "startYear": 2012,
+        "endYear": null,
+        "isAdult": false
+    },
+    {
+        "primaryTitle": "Episode#1.50",
+        "runtimeMinutes": null,
+        "titleType": "tvEpisode",
+        "originalTitle": "Episode#1.50",
+        "genres": [
+            "Animation",
+            "Comedy",
+            "Musical"
+        ],
+        "tconst": "tt7768672",
+        "startYear": 2017,
+        "endYear": null,
+        "isAdult": false
+    }
+]

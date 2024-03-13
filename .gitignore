@@ -1,0 +1,26 @@
+# General logs
+*.log
+
+# DynamoDB Local files
+/dynamodb_local_latest/*
+
+# IDEs
+.idea/
+.vscode/
+
+# MacOS
+.DS_Store
+*/.DS_Store
+
+# Maven specific
+target/
+**/target/
+!**/src/main/resources/archetype-resources/target/
+*.tmp
+release.properties
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+dependency-reduced-pom.xml
+.mvn/

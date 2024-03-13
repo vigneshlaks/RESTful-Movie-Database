@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Movie Query Forms</title>
+    <script>
+        function submitYearRangeForm(event) {
+            event.preventDefault();
+
+            var startYear = document.getElementById("startYear").value;
+            var endYear = document.getElementById("endYear").value;
+            var queryString = "start=" + encodeURIComponent(startYear);
+            
+            if (endYear) {
+                queryString += "&end=" + encodeURIComponent(endYear);
+            }
+
+            window.location.href = "http://localhost:4567/query/years?" + queryString;
+        }
+        function submitTitleForm(event) {
+            event.preventDefault();
+            var title = document.getElementById("title").value;
+            window.location.href = "http://localhost:4567/query/title/" + encodeURIComponent(title);
+        }
+    </script>
+</head>
+<body>
+
+    <h2>Query by Title</h2>
+    <form onsubmit="submitTitleForm(event)">
+        <label for="title">Title:</label>
+        <input type="text" id="title" name="titleName" required>
+        <input type="submit" value="Search">
+    </form>
+
+    <h2>Query by Genres</h2>
+    <form action="http://localhost:4567/query/genres" method="get">
+        <label for="genres">Genres (comma separated):</label>
+        <input type="text" id="genres" name="value" required>
+        <input type="submit" value="Search">
+    </form>
+
+    <h2>Query by Year Range</h2>
+    <form onsubmit="submitYearRangeForm(event)">
+        <label for="startYear">Start Year:</label>
+        <input type="number" id="startYear" name="start" required>
+        <label for="endYear">End Year:</label>
+        <input type="number" id="endYear" name="end">
+        <input type="submit" value="Search">
+    </form>
+
+</body>
+</html>
